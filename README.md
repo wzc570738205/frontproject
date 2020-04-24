@@ -1,9 +1,3 @@
-<!--
- * @Author: wangzhichiao<https://github.com/wzc570738205>
- * @Date: 2020-04-07 09:58:00
- * @LastEditors: wangzhichiao<https://github.com/wzc570738205>
- * @LastEditTime: 2020-04-24 17:29:26
- -->
 # hello-world
 
 ## Project setup
@@ -26,3 +20,5 @@ npm run build
 npm run lint
 ```
 
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
