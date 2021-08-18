@@ -54,7 +54,7 @@
         </div>
         <div class="tips">
           <span style="margin-right:18px;">Username : editor</span>
-          <span>Password : any</span>
+          <span>Password : any2</span>
         </div>
 
         <el-button class="thirdparty-button" type="primary" @click="showDialog=true">
