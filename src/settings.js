@@ -1,5 +1,12 @@
+/*
+ * @FileDescription: 
+ * @Author: wangzhichiao<https://github.com/wzc570738205>
+ * @Date: 2021-08-17 17:41:22
+ * @LastEditors: wangzhichiao<https://github.com/wzc570738205>
+ * @LastEditTime: 2021-08-18 09:36:02
+ */
 module.exports = {
-  title: 'Vue Element Admin',
+  title: 'Vue Element Adminxx',
 
   /**
    * @type {boolean} true | false
