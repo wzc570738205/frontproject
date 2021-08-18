@@ -3,10 +3,10 @@
  * @Author: wangzhichiao<https://github.com/wzc570738205>
  * @Date: 2021-08-17 17:41:22
  * @LastEditors: wangzhichiao<https://github.com/wzc570738205>
- * @LastEditTime: 2021-08-18 09:50:32
+ * @LastEditTime: 2021-08-18 09:52:42
  */
 module.exports = {
-  title: 'Vue Element Admin3',
+  title: 'Vue Element Admin333',
 
   /**
    * @type {boolean} true | false
