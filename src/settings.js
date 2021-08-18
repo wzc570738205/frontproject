@@ -3,10 +3,10 @@
  * @Author: wangzhichiao<https://github.com/wzc570738205>
  * @Date: 2021-08-17 17:41:22
  * @LastEditors: wangzhichiao<https://github.com/wzc570738205>
- * @LastEditTime: 2021-08-18 10:02:35
+ * @LastEditTime: 2021-08-18 10:15:38
  */
 module.exports = {
-  title: 'Vue Element Ad5min333',
+  title: 'Vue Element Ad5min333333',
 
   /**
    * @type {boolean} true | false
